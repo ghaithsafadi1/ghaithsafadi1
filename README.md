@@ -1,4 +1,4 @@
-# Hi there, I'm [Ghaith Safadi] 👋
+# Hi there, I'm Ghaith Safadi 👋
 
 ### 🚀 Front-End Developer | 🛡️ Cybersecurity Enthusiast
 
@@ -29,13 +29,6 @@ I'm currently bridging the gap between development and defense:
 
 ### 🧠 Soft Skills
 **Collaboration** | **Adaptability** | **Effective Communication** | **Quick Learner**
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghaithsafadi1&show_icons=true&theme=dark" alt="Focusing" />
-</p>
 
 ---
 
